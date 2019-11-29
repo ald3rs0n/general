@@ -1,0 +1,10 @@
+#writing blog for site minimum 1/week
+
+topics for now:
+    sed abd awk and grep
+    more and vim
+    scp
+    git
+
+ctf write up:
+    htb.eu

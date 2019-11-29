@@ -1,0 +1,16 @@
+# what to write
+
+codewars.com practices
+shell script for git commit
+intrigated platform of all useful servies and links and cheetsheets
+    if in javascript consider angular.js or electron basaed
+    python is another option
+
+assembly and c 
+    nasm
+
+
+python image manipulation with
+    openCV dlib pillow
+
+bot and ai for automating and other stuff

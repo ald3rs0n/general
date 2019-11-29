@@ -1,0 +1,9 @@
+# To collect useful links
+
+defendtheweb.net
+overthewire.org
+codewars.com
+hackthebox.eu
+vulnhub.com
+
+https://redtiger.labs.overthewire.org/  #sql injection

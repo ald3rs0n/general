@@ -1,0 +1,27 @@
+# Make note of what to read
+
+linux karnel development //Love
+
+web applicaton penetration testing
+    SQLi
+    XSS types
+    CSRF
+    SSRF
+    XXE
+    SOP
+
+windows
+    internals and kernel
+    windows server
+    AD and LDAP
+    SMB
+    PS
+
+git uses
+
+cypher and encryptions
+    tls and openssl
+    AES DES
+    SHA HMAC MD5 RSA
+    XOR
+    PKCS Padding
